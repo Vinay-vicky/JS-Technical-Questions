@@ -1,0 +1,55 @@
+1. Write a function to reverse a string in JavaScript.
+2. How would you check if a string is a palindrome?
+3. Write a function that returns the Fibonacci sequence up to a given number n.
+4. find the largest number in an array?
+5. Write a function to remove duplicates from an array.
+6. Write a function to find the factorial of a number.
+7. How would you check if a Number is a palindrome?
+8. How would you check if a Number is a Armstrong?
+9. How would you check if a Number is a Even and Odd ?
+10.
+ Print all Prime Numbers
+11. Write a program to print given format.
+12. Write a program to find out simple interest (SI).
+13. Write a program to find gross salary (Hint :-GS=BS+DA+TA).
+14. Write a program for swapping of two integer variables using third variable.
+15. Write a program for swapping of two integer variables Without using third variable.
+16. Write a program accepts a character and find out corresponding ASCII value.
+17. Write a program to print last digit of a given number.
+18. Write a program to calculate Compound Interest.
+19. Write a program to swap two numbers.
+20. Write a program to find out square of given number.
+21. Write a program to find out area of circle.
+22. Write a program accepts three numbers from user and calculate average of given three numbers.
+23. Find sum of first , third and fifth digit of 6 digit number.
+24. Write a program to accepts three numbers from user and calculate biggest number out of three numbers.
+25. Write a program to calculate whether character is in lowercase or uppercase.
+26. Write a C program to input basic salary of an employee and calculate its Gross salary according to following:
+ Basic Salary <= 10000 : HRA = 20%, DA = 80%
+ Basic Salary <= 20000 : HRA = 25%, DA = 90%
+ Basic Salary > 20000 : HRA = 30%, DA = 95%
+ Gross Salary = Basic Salary + HRA + DA
+27. Write a program to find maximum between two numbers.
+28. Write a program to find maximum between three numbers using if-else and ternary operator.
+29.Write a program to calculate sum of digits of a number of three digit number using if-else.
+30. Take any ten numbers from user and print sum and average of positive numbers.
+31. Write a program to print n natural number.
+32.  Write a program to calculate factorial of a given number.
+33. Write a program to calculate sum of digits of a number.
+34. Write a program to find out reverse of a given number.
+35. Write a program to search an element in an array.
+36. Write a program to count total number of even and odd elements in an array.
+37. Write a Javascript program to print all natural numbers between 1 to n using recursion.
+38. Write a program to find sum of all array elements.
+39. Write a program to find maximum and minimum element in an array.
+40. Write a Javascript program to count total number of duplicate elements in an array.
+41. Write a C program to sort array elements in ascending or descending order.
+42.  Write a program to print words representation of entered number. e.g. if entered number is 245983 then result should be Two Lac Forty Five Thousand Nine Hundred Eighty Three.
+43. Find 2nd highest number from and 2nd minimum from array of n elements.
+44. Write a program to count total number of vowels and consonants in a string.
+45. Write a program to toggle case of each character of a string.
+46. Write a program to find total number of alphabets, digits or special character in a string.
+47. Write a program to insert an element in an array.
+48. Write a program to find cube of any number using function.
+49. Write a program to print table of any given numbers. . e.g table of 5 is 5, 10, 15,…,50.
+50. Write a program accept 5 subject marks (Hint P=67, C=87, M=90, H=98, E=88) and calculate total marks and percentage.
