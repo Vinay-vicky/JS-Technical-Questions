@@ -2,8 +2,8 @@
 
 function app(arr)
 {
-   let res=arr.sort((a,b)=>a-b)
-   console.log(... new Set(res))    
+   let sorted=arr.sort((a,b)=>a-b)
+   console.log(... new Set(sorted))    
    let arr1=[]
        for(let i=0;i<=arr.length;i++)
        {

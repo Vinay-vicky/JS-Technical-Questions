@@ -2,7 +2,7 @@
 
 function app(str) {
 
-    const res= str.split(" ").reverse().join('')
+    const res= str.split("").reverse().join('')
     if(str===res)
     {
      console.log("This is Palindrome");
