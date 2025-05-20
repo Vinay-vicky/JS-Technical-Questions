@@ -1,4 +1,4 @@
-// 50. Write a program to find array items by searching through Name, Age, Salary by getting input from user.
+// 51. Write a program to find array items by searching through Name, Age, Salary by getting input from user.
 
 
 const employees = [

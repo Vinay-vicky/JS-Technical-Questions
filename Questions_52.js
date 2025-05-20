@@ -1,3 +1,7 @@
+// 52. Write a program for form validation using javascript function.
+
+
+
 function validateForm() {
   const name = prompt("Enter your name:");
   const email = prompt("Enter your email:");
