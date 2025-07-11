@@ -9,3 +9,12 @@ function app()
 }
 
 app()
+
+//In argument
+
+function app(arr) {
+    console.log("the Maximum element of an array is : ", Math.max(...arr));
+    console.log("the Minimum element of an array is : ", Math.min(...arr));
+}
+
+app([1, 2, 3, 4, 5, 6]);

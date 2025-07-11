@@ -8,3 +8,16 @@ function app(num)
   console.log(first + third + fifth)
 }
 app(123456)
+
+
+
+// function app(num)
+// {
+//   let second = parseInt(num / 10000) % 10;   // 2nd digit
+//   let fourth = parseInt(num / 100) % 10;     // 4th digit
+//   let sixth = parseInt(num) % 10;            // 6th digit
+
+//   console.log(second + fourth + sixth);
+// }
+
+// app(123456);

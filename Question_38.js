@@ -2,12 +2,13 @@
 
 function app(arr)
 {
-    let res = 1;
-for(let i=0;i<=arr.length-1;i++)
-{
-    res=res+arr[i]
-    console.log(arr[i])
+    let res = 0;
+    for(let i = 0; i <= arr.length - 1; i++)
+    {
+        res = res + arr[i];
+        console.log(arr[i]);
+    }
+    console.log(res);
 }
-console.log(res)
-}
-app([1,2,3,4,5])
+
+app([1, 2, 3, 4, 5]);

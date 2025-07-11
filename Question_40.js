@@ -23,3 +23,29 @@ function countDuplicates(arr) {
 // Example usage:
 const array = [1, 4 , 2, 3, 4, 2, 3, 5, 6, 1, 1];
 console.log("Total number of duplicate elements:", countDuplicates(array));
+
+
+
+
+
+
+// simple example 
+
+function countDuplicates(arr) {
+  const count = {};
+  let duplicateCount = 0;
+
+  arr.forEach(item => {
+    count[item] = (count[item] || 0) + 1;
+  });
+
+  for (let key in count) {
+    if (count[key] > 1) {
+      duplicateCount++;
+    }
+  }
+
+  return duplicateCount;
+}
+
+console.log(countDuplicates([1, 2, 2, 3, 4, 4, 4, 5])); // Output: 2
